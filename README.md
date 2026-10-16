@@ -15,7 +15,7 @@
 [<img width="200" height="50" alt="Untitled170_20261007073554" src="https://github.com/user-attachments/assets/46afc4b5-3289-4174-9b69-fcfffd6c13d7" />
 ](https://moeful.atabook.org) .
 [<img width="200" height="50" alt="Untitled170_20261007073611" src="https://github.com/user-attachments/assets/fa9234a9-2c48-4101-96ed-802d9a5442b3" />
-](https://ix1dx1.straw.page)
+](https://cuteblur.straw.page)
 
 
 
