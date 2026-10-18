@@ -19,20 +19,7 @@
 
 
 
-   <details>
-  
-<summary> <sub>info</sub> </summary>
 
-  it / its ONLY
- 
- NOT a sys, we use plural to refer to ourselves because we feel most comfortable doing so - block us if this bothers you
- 
- dniuf or unless we do - crowning is ok tho
-
- andrew2002, john grace, john zen, and regect fictionkin C:
-
-  
-</details>
 
 <details>
 <summary> <sub>friends</sub> </summary>
