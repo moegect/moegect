@@ -8,7 +8,7 @@
 
 
   
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shiwanjini&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ce6c46&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shiwanjini&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ce6c46&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [<img width="200" height="50" alt="Untitled170_20261007073523" src="https://github.com/user-attachments/assets/c595de80-b91a-460c-a9c9-d664932f8d3f" />
 ](https://pronouns.cc/@sweetful) .
