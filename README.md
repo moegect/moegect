@@ -1,6 +1,6 @@
 <div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=sHarkieeii%2Fgithub-vistors-badge&label=fishies&labelColor=%23ce6c46&countColor=%23b5443b&style=flat-square&labelStyle=lower)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=sHarkieeii%2Fgithub-vistors-badge&label=vivpalps&labelColor=%23ce6c46&countColor=%23b5443b&style=flat-square&labelStyle=lower)
   
  <img width="300" height="400" alt="orange palpers nya" src="https://github.com/user-attachments/assets/9ec3961d-f7a8-48ef-9f38-0c4c5993e494" />
 
