@@ -22,7 +22,7 @@
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shiwanjini&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=9E9489&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [<img width="200" height="50" alt="Untitled195_20261028221420" src="https://github.com/user-attachments/assets/9cadf683-848d-41cc-9cd6-3ab8b11d9faa" />
-](https://cuteblur.straw.page)
+](https://d3rrking.straw.page)
 
 [<img width="161" height="50" alt="Untitled195_20261028221445" src="https://github.com/user-attachments/assets/2266354f-3c9a-4da7-873c-5aef0d76702e" />
 ](https://moeful.atabook.org) 
