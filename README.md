@@ -46,7 +46,7 @@
 <details>
 <summary> <sub>friends</sub> </summary>
 
-  [ze / mane](https://github.com/ZETHETACO) - [suo](https://github.com/demisedscholar) - [foxx](https://github.com/nufulii) - [uzi / marceline](https://github.com/Scr1bblez) - [sasha / ghosters](https://github.com/kawaiizam)
+  [ze / mane](https://github.com/ZETHETACO) -  - [uzi / marceline](https://github.com/Scr1bblez) - [sasha / ghosters](https://github.com/kawaiizam)
   
 
 </details>
