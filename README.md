@@ -7,17 +7,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=9C899E&width=435&lines=I+don't+think+I+like+the+way+you+are;speaking+to+Me%2C+you+little+bug.)](https://git.io/typing-svg)
 
-<img width="400" height="600" alt="Untitled218_20261117235228" src="https://github.com/user-attachments/assets/88a99bb2-50f5-4c72-8a26-2daa49d65cf5" />
+<img width="300" height="400" alt="Untitled218_20261118002132" src="https://github.com/user-attachments/assets/0e5cfc1e-0b65-48d3-b02a-8f3ddf139231" />
+
 
 
 
 <div align="left">
   
-  <img width="600" height="10" alt="Untitled196_20261028222141" src="https://github.com/user-attachments/assets/d3f46b22-b34c-4770-9605-4674b1f742a9" />
+  <img width="600" height="10" alt="Untitled224_20261118002415" src="https://github.com/user-attachments/assets/4d19894a-4e02-43ac-a864-756fc8fa2e91" />
+
 
 <div align="right">
 
-<img width="600" height="10" alt="Untitled196_20261028222147" src="https://github.com/user-attachments/assets/95718a11-4a3e-49f4-8970-246c0884619f" />
+<img width="600" height="10" alt="Untitled224_20261118002254" src="https://github.com/user-attachments/assets/22e1c8a3-d7c4-48ce-847b-94381398e8d5" />
+
 
 <div align="center">
 
@@ -35,11 +38,11 @@
 
 <div align="left">
 
-<img width="600" height="10" alt="Untitled196_20261028222147" src="https://github.com/user-attachments/assets/95718a11-4a3e-49f4-8970-246c0884619f" />
+<img width="600" height="10" alt="Untitled224_20261118002254" src="https://github.com/user-attachments/assets/22e1c8a3-d7c4-48ce-847b-94381398e8d5" />
 
 <div align="right">
   
-  <img width="600" height="10" alt="Untitled196_20261028222141" src="https://github.com/user-attachments/assets/d3f46b22-b34c-4770-9605-4674b1f742a9" />
+  <img width="600" height="10" alt="Untitled224_20261118002415" src="https://github.com/user-attachments/assets/4d19894a-4e02-43ac-a864-756fc8fa2e91" />
 
 <div align="center">
 
