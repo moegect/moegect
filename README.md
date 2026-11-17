@@ -3,11 +3,12 @@
 ###### best on dark mode…
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=sHarkieeii%2Fgithub-visitors-badge&label=My%20King%2C%20My%20Lord&labelColor=%239e9489&countColor=%23a08092&style=flat-square&labelStyle=none)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=sHarkieeii%2Fgithub-visitors-badge&label=george%20jrs&labelColor=%23797462&countColor=%239f9e72&style=flat&labelStyle=lower)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=9C899E&width=435&lines=I+don't+think+I+like+the+way+you+are;speaking+to+Me%2C+you+little+bug.)](https://git.io/typing-svg)
 
-<img width="400" height="400" alt="Untitled192_20261028215811" src="https://github.com/user-attachments/assets/0c03daed-8f3a-4789-ba82-c425c736251f" />
+<img width="400" height="600" alt="Untitled218_20261117235228" src="https://github.com/user-attachments/assets/88a99bb2-50f5-4c72-8a26-2daa49d65cf5" />
+
 
 <div align="left">
   
@@ -29,6 +30,9 @@
 
 [<img width="148" height="50" alt="Untitled195_20261028221505" src="https://github.com/user-attachments/assets/9a42a759-7542-4111-ad55-819d5d679579" />
 ](https://pronouns.cc/@sweetful) 
+
+
+<img align="right" width="300" height="300" alt="Untitled217_20261118000444" src="https://github.com/user-attachments/assets/d82f0b64-f293-4d3f-b3e1-ee95f4cbd38e" />
 
 
 
