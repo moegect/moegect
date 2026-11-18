@@ -5,8 +5,6 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=sHarkieeii%2Fgithub-visitors-badge&label=george%20jrs&labelColor=%23797462&countColor=%239f9e72&style=flat&labelStyle=lower)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=9C899E&width=435&lines=I+don't+think+I+like+the+way+you+are;speaking+to+Me%2C+you+little+bug.)](https://git.io/typing-svg)
-
 <img width="300" height="400" alt="Untitled218_20261118002132" src="https://github.com/user-attachments/assets/0e5cfc1e-0b65-48d3-b02a-8f3ddf139231" />
 
 
